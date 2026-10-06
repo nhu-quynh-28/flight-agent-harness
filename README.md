@@ -26,9 +26,6 @@ An educational coursework project implementing a Flight Booking Agent using **La
    - **Plan-then-Execute (`agents/plan_execute_agent.py`):** Upfront structured planning followed by sequential execution (economical but rigid).
    - **Hybrid / Lai (`agents/hybrid_agent.py`):** High-level planning + reactive execution + dynamic re-planning when observations invalidate the active plan.
 
-> **Design Assumption Documentation:**  
-> *The provided course teaching material does not explicitly define what the instructor means by the third design pattern "Lai". Therefore, this implementation interprets "Lai" as a **HYBRID** design combining Plan-then-Execute, ReAct, and dynamic re-planning.*
-
 ---
 
 ## 📂 Project Structure
