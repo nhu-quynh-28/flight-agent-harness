@@ -186,7 +186,4 @@ Real results obtained from executing `python run.py --evaluate`:
 - **Hybrid ("Lai")** strikes the best balance by following high-level plan milestones while dynamically re-planning upon encountering failed observations.
 - All three patterns reliably respect the safety harness layers: blocking circular routes (TC04), blocking unconfirmed bookings (TC05), catching action loops (TC09), and generating handoffs (TC10).
 
----
 
-## 📄 License
-MIT License. Created for Agentic AI Coursework Assignment #3.
